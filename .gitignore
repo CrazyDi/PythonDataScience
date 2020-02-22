@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 .idea/
+data/event_data_train.csv
+data/submissions_data_train.csv
